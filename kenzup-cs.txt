@@ -1,0 +1,2 @@
+Si les documents d'un utilisateurs ne sont pas traités, il faut verifier avec l'utilisateur que il a deja envoyé des documents via  l'application Kenz’up, si c'est pas le cas il faut l'aider a les transmettre sur la plateforme Kenz'up, Module Compte, cliquer sur “Vérifier mes documents” et suivre les instructions.
+Notre service client traite les documents dans un délai maximum de 6 heures. Les documents validés sont marqués d'un Logo ✅
